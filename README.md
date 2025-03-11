@@ -2,6 +2,7 @@
 <h3 align="center">MIPT DREC'28 Student // Biofeedback enthusiast // RT RT RT shouter</h3>
 
 - 🎴 My main project is [Stoptick](https://github.com/Barkir/StopTick)
+- 🏎️ Creating a project for optimizing large car washing queues [MoykaMap](https://web.telegram.org/k/#@moyka_map_bot) (beta)
 
 - 📖 Studying C and Assembly on Ded's Huawei course
 
