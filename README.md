@@ -1,7 +1,7 @@
 <h1 align="center">Who?</h1>
 <h3 align="center">MIPT DREC'28 Student</h3>
 
-
+- Software engineer. learning about llvm :)
 - 📖 Finished [Ded32](https://github.com/ded32) __C & Assembly__ course 
 
 - ⚕️StopTick founder (biofeedback research)
